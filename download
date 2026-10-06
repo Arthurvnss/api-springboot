@@ -1,0 +1,7 @@
+target/
+dbProdutos*
+*.mv.db
+*.trace.db
+.idea/
+*.iml
+.vscode/
